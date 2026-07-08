@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Abbas Rezaei 👋
 
-<!--
-**abbasrezaeif/abbasrezaeif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer focused on building AI-powered backend systems and automation tools.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FastAPI
+- Django
+- PostgreSQL
+- REST APIs
+- AI Automation
+- OCR
+- Web Scraping
+- Git & GitHub
+
+## 📌 Featured Projects
+
+- Telegram AI Document Assistant
+- AI Document Summarizer
+- Python Web Scraper
+- File Organizer
+- DogCoach AI
+
+## 🌱 Currently Learning
+
+- FastAPI
+- Docker
+- AI Backend Systems
+- Scalable API Design
+
+## 📫 Connect with me
+
+- LinkedIn:
+  https://linkedin.com/in/abbasrezaeif
+
+- GitHub:
+  https://github.com/abbasrezaeif
